@@ -331,8 +331,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Support
 
-- **Issues**: https://github.com/yourusername/data-dojo/issues
-- **Discussions**: https://github.com/yourusername/data-dojo/discussions
+- **Issues**: https://github.com/KVSSetty/data-dojo/issues
+- **Discussions**: https://github.com/KVSSetty/data-dojo/discussions
 
 ---
 

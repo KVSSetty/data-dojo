@@ -153,6 +153,10 @@ data-dojo-technical requriments.md
 CLAUDE.md
 .pre-commit-config.yaml
 
+# Specify Framework (development tooling)
+.claude/
+.specify/
+
 # IDE
 .vscode/
 .idea/

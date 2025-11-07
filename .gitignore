@@ -152,6 +152,9 @@ data-dojo-technical requriments.md
 .learning-notes.md
 CLAUDE.md
 .pre-commit-config.yaml
+GEMINI.md
+GITHUB_SETUP.md
+LINKEDIN_TEASER.md
 
 # Specify Framework (development tooling)
 .claude/
